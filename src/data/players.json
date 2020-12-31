@@ -1,0 +1,16 @@
+[
+{"Name":"Ashish Reddy","DOB":"02/24/1991","Batting Hand":"Right_Hand","Bowling Skill":"Right-arm medium","Country":"India","Total Runs":"280","Out":"15","Strike Rate":"146"},
+{"Name":"Chandila","DOB":"12/05/1983","Batting Hand":"Right_Hand","Bowling Skill":"Right-arm offbreak","Country":"India","Total Runs":"4","Out":"1","Strike Rate":"57"},
+{"Name":"Chopra","DOB":"09/19/1977","Batting Hand":"Right_Hand","Bowling Skill":"Right-arm offbreak","Country":"India","Total Runs":"53","Out":"5","Strike Rate":"74"},
+{"Name":"Choudhary","DOB":"12/05/1983","Batting Hand":"Right_hand","Bowling Skill":"Left-arm fast-medium","Country":"","Total Runs":"25","Out":"2","Strike Rate":"125"},
+{"Name":"Dananjaya","DOB":"12/05/1983","Batting Hand":"Right_Hand","Bowling Skill":"Right-arm offbreak","Country":"","Total Runs":"4","Out":"0","Strike Rate":"80"},
+{"Name":"Flintoff","DOB":"12/06/1977","Batting Hand":"Right_Hand","Bowling Skill":"Right-arm fast-medium","Country":"England","Total Runs":"62","Out":"2","Strike Rate":"116"},
+{"Name":"Hales","DOB":"12/05/1983","Batting Hand":"Right_hand","Bowling Skill":"Right-arm","Country":"","Total Runs":"150","Out":"6","Strike Rate":"127"},
+{"Name":"Kumble","DOB":"10/17/1970","Batting Hand":"Right_Hand","Bowling Skill":"Legbreak googly","Country":"India","Total Runs":"35","Out":"2","Strike Rate":"76"},
+{"Name":"Mishra","DOB":"11/24/1982","Batting Hand":"Right_Hand","Bowling Skill":"Legbreak","Country":"India","Total Runs":"366","Out":"29","Strike Rate":"95"},
+{"Name":"Mithun","DOB":"10/25/1989","Batting Hand":"Right_Hand","Bowling Skill":"Right-arm medium","Country":"India","Total Runs":"34","Out":"5","Strike Rate":"136"},
+{"Name":"Mukund", "DOB":"01/06/1990","Batting Hand":"Right_Hand","Bowling Skill":"Legbreak googly","Country":"India","Total Runs":"19","Out":"2","Strike Rate":"86"},
+{"Name":"Nehra","DOB":"04/29/1979","Batting Hand":"Right_Hand","Bowling Skill":"Left-arm medium-fast","Country":"India","Total Runs":"41","Out":"8","Strike Rate":"69"},
+{"Name":"Nel", "DOB":"07/15/1977","Batting Hand":"Right_Hand","Bowling Skill":"Right-arm fast-medium","Country":"South Africa","Total Runs":"66","Out":"66","Strike Rate":"66"},
+{"Name":"AB de Villiers", "DOB":"02/17/1984","Batting Hand":"Right_Hand","Bowling Skill":"Right-arm medium","Country":"South Africa","Total Runs":"4414","Out":"104","Strike Rate":"152"}
+]

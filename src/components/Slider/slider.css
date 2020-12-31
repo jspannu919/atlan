@@ -1,0 +1,11 @@
+.ant-slider-track{
+    background-color: var(--text);
+}
+
+.ant-slider-handle{
+    border-color: var(--text);
+}
+
+.rangeSlider{
+    padding-top: 40px;
+}
