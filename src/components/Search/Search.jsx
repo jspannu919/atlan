@@ -45,13 +45,13 @@ const Search = ({location}) => {
         let imgDir = '/assets/images/';
         switch(searchItem){
             case 'Player':
-                return imgDir + 'player.png';
+                return imgDir + 'player.jpg';
             case 'Teams':
                 return imgDir + 'teamLogo/' + getTeamId(name) + '.png';
             case 'Match':
-                return imgDir + 'match.png';
+                return imgDir + 'match.jpg';
             case 'Venue':
-                return imgDir + 'venue.png';
+                return imgDir + 'venue.jpg';
             default:
                 return []
         }
